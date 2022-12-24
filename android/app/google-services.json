@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459492462692",
+    "project_id": "agora-bdaae",
+    "storage_bucket": "agora-bdaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459492462692:android:3f545c1ba570e79a29cf71",
+        "android_client_info": {
+          "package_name": "com.rn70agora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459492462692-eft7lh2bmtnajg0ojeac5ah0jioobngj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrp0ceZi-hqs3LlOaXCBR4BQf9GqHe9uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459492462692-eft7lh2bmtnajg0ojeac5ah0jioobngj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
